@@ -8,3 +8,4 @@ For every question, after marking the option we will get to know that whether it
 After attempting every question, we need to click on “next” option to go for another question.
 After attempting last question, click on submit option. Then quiz get submitted and it generates our score
 We can restart the quiz again by clicking restart option.
+https://github.com/Sreejapinnamaneni/sreeja_1#sreeja_1
